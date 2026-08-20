@@ -1,0 +1,75 @@
+## SUMMARY
+
+Title/Topic:
+Artificial Intelligence and Its Applications
+
+Objective:
+To provide a comprehensive overview of Artificial Intelligence (AI) concepts, historical development, core methodologies, and application areas, while evaluating the state of AI research within Information Systems (IS) literature.
+
+Methodology:
+The paper utilizes a narrative overview of AI technologies alongside a Systematic Literature Review (SLR) based on Okoli’s (2015) 8-step framework (spanning 4 phases). The SLR identified, classified, and analyzed 1,877 studies on AI and Machine Learning in Information Systems published between 2005 and 2020, filtering them down to 98 primary studies.
+
+Key Findings:
+1. AI has experienced "summers and winters" since the 1950s, entering a modern resurgence ("summer") since 2010 due to three breakthroughs: sophisticated algorithms, low-cost graphics processors, and massive, correctly annotated databases.
+2. There is no commonly accepted or consensual definition of AI, creating challenges for policymakers and researchers.
+3. Core AI methods include Machine Learning (supervised, unsupervised, reinforcement), Natural Language Processing, Automation & Robotics, Machine Vision, Knowledge-Based Systems, and Neural Networks.
+4. The SLR revealed a disproportionate academic focus on machine learning and process automation, with a general lack of cohesion regarding AI definitions in IS literature.
+
+Conclusion:
+AI research within the field of Information Systems remains largely unexplored and fragmented. There is an urgent need to increase rigorous academic studies on AI tools and models, construct a cumulative body of knowledge, and establish clear, precise definitions of AI in contemporary research.
+
+Professional Summary:
+This research paper reviews the foundational elements, history, and applications of Artificial Intelligence (AI). It tracks the evolution of AI from its inception at the 1956 Dartmouth College conference to its post-2010 resurgence, driven by advanced algorithms, cheaper processing power, and massive datasets. The authors outline key AI techniques—such as machine learning, natural language processing, neural networks, and machine vision—and detail their diverse applications across sectors like healthcare, finance, education, and agriculture. Furthermore, by executing a Systematic Literature Review of 1,877 articles (yielding 98 primary studies) from 2005 to 2020, the paper exposes a significant gap in structured, cohesive AI research within Information Systems (IS), calling for standardized definitions and more rigorous academic studies.
+
+
+## MCQ
+
+Question 1:
+According to the research paper, who officially coined the term "Artificial Intelligence" at the Dartmouth College conference in 1956?
+
+A. Alan Turing
+B. John McCarthy
+C. Marvin Minsky
+D. Herbert Simon
+
+Correct Answer: B
+
+Question 2:
+The paper states that AI has entered a "summer" period since 2010 due to three specific breakthroughs. Which of the following is one of these breakthroughs?
+
+A. The development of rules-based decision-making models that strictly respect developer limits
+B. The arrival of low-cost graphics processors capable of performing large amounts of calculations in milliseconds
+C. The transition of symbolic reasoning to general symbol manipulation systems
+D. The standardization of a globally accepted definition of AI by policymakers
+
+Correct Answer: B
+
+Question 3:
+In the Systematic Literature Review (SLR) conducted in this study for the period 2005–2020, how many primary studies were selected after filtering the initial 1,877 identified studies?
+
+A. 98 primary studies
+B. 156 primary studies
+C. 231 primary studies
+D. 345 primary studies
+
+Correct Answer: A
+
+Question 4:
+According to the section on AI methods, what are the two vital aspects of "Machine Vision"?
+
+A. Supervised learning and back propagation
+B. Symbolic structures and rule-based decision making
+C. Sensitivity and resolution
+D. Heuristic search and automated scheduling
+
+Correct Answer: C
+
+Question 5:
+The systematic literature review process utilized in the paper was based on Okoli (2015), which consists of how many steps and phases?
+
+A. 6 steps completed across 3 phases
+B. 8 steps completed across 4 phases
+C. 10 steps completed across 5 phases
+D. 12 steps completed across 6 phases
+
+Correct Answer: B
